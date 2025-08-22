@@ -64,7 +64,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [COCONUT](https://coconut.naturalproducts.net/) - 400k+ natural products.  
 - [LOTUS](https://lotus.naturalproducts.net/) - Annotated molecular data with sourcing organisms.  
 - [NPASS](http://bidd.group/NPASS/index.php) - 94k activity-species links.  
-- [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 4k+ African medicinal plant compounds.  
+- [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 27k+ African medicinal plant compounds.  
 - [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa.  
 - [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.  
 - [SistematX](https://sistematx.ufpb.br/) - 8k+ secondary metabolites.  
