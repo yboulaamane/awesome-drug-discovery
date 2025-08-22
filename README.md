@@ -187,7 +187,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MGLTools](https://ccsb.scripps.edu/mgltools/) - Structure preparation.
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
 - [AutoDock Vina](https://vina.scripps.edu/) - Popular docking software.
-- [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.
+- [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
+- [DiffDock](https://github.com/gcorso/DiffDock) - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.  
+- [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.  
 - [Webina](https://durrantlab.pitt.edu/webina/) - Web-based Vina.
 - [Smina](https://github.com/mwojcikowski/smina) - Vina fork with extra features.
 - [Gnina](https://github.com/gnina/gnina) - CNN-scoring docking.
@@ -217,6 +219,7 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ### Engines
 - [GROMACS](https://www.gromacs.org/) - Fast, scalable MD engine optimized for biomolecular simulations and energy minimization.
+- [OpenMM](https://openmm.org/) - Flexible MD toolkit with GPU acceleration and Python bindings.
 - [LAMMPS](https://www.lammps.org/) - Classical MD simulator for materials science and soft matter.
 - [NAMD](https://www.ks.uiuc.edu/Research/namd/) - Highly parallel MD engine tailored for large biomolecular systems.
 - [AMBER](https://ambermd.org/) - Suite for biomolecular simulations and free energy calculations.
@@ -283,6 +286,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - Transformer-based molecular representation learning.
 - [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) - Pretrained BERT-like models for molecules from SMILES.
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) - 3D molecular representation learning framework.
+- [Boltz-2](https://github.com/jwohlwend/boltz) - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.  
 
 ### AutoML and Optimization
 - [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) - Automated machine learning for scikit-learn.
