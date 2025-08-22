@@ -182,7 +182,7 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ## Virtual Screening and Docking
 - [OpenBabel](https://openbabel.org/index.html) - Format conversion and ligand prep.
-- [Meeko](https://github.com/forlilab/Meeko) - Prepares ligands for AutoDock by generating 3D structures and assigning torsions.
+- [Meeko](https://github.com/forlilab/Meeko) - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
 - [MolScrub](https://github.com/forlilab/molscrub) - Enumerates tautomers, pH states, and conformers for docking and structure-based modeling.
 - [MGLTools](https://ccsb.scripps.edu/mgltools/) - Structure preparation.
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
