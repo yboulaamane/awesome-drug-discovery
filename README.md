@@ -239,6 +239,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [gmx_MMPBSA](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/) - Port of AMBER MMPBSA.py for GROMACS.
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/) - Large biomolecular systems visualization and analysis using 3D graphics and scripting.
 - [Grace](https://plasma-gate.weizmann.ac.il/Grace/) - 2D plotting tool for Unix-like systems with advanced graphing, fitting, and analysis features.
+- [CPPTRAJ](https://amberhub.chpc.utah.edu/cpptraj/) - Fast, parallelizable trajectory analysis from AMBER.
 ---
 
 ## Synthesis and Retrosynthesis Planning
