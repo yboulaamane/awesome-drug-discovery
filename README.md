@@ -241,6 +241,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/) - Large biomolecular systems visualization and analysis using 3D graphics and scripting.
 - [Grace](https://plasma-gate.weizmann.ac.il/Grace/) - 2D plotting tool for Unix-like systems with advanced graphing, fitting, and analysis features.
 - [CPPTRAJ](https://amberhub.chpc.utah.edu/cpptraj/) - Fast, parallelizable trajectory analysis from AMBER.
+- [MDAnalysis](https://www.mdanalysis.org/) - Open-source Python library for analyzing MD simulations.
 ---
 
 ## Synthesis and Retrosynthesis Planning
