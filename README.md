@@ -316,6 +316,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - CADD resources repository.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular structure prediction and modeling tools.
 - [PlayMolecule](https://open.playmolecule.org/landing) - Interactive molecular modeling and simulation platform.
+- [Ertl Molecular](https://ertlmolecular.com/) - Cheminformatics tools for medicinal chemists, including scaffold analysis, ring replacement, and property calculators.
 ---
 
 ## Learning Resources
