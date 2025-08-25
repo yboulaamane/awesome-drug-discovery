@@ -212,6 +212,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - Advanced visualization.
 - [PyMOL](https://www.pymol.org/) - Python-based molecular visualization software.
 - [UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/) - A molecular visualization program with emphasis on structural biology.
+- [Avogadro](https://avogadro.cc/) - Cross-platform molecular editor and visualizer featuring an extensible plugin system.
 
 ---
 
