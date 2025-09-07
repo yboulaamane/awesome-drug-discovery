@@ -169,7 +169,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) - ADMET filtering.
 - [Admetboost](https://ai-druglab.smu.edu/admet) - ML-based ADMET prediction.
 - [MetaPredict](http://metapredict.icoa.fr/) - Predict molecular properties from structure.
-- [ADMET-AI](https://admet.ai.greenstonebio.com/) - A web-based tool for predicting ADMET properties based on Chemprop-RDKit models trained on Therapeutics Data Commons datasets.
+- [ADMET-AI](https://admet.ai.greenstonebio.com/) - A web-based tool for predicting ADMET properties based on Chemprop-RDKit models trained on datasets from the TDC.
 
 ### Fragment-Based Drug Design
 
