@@ -204,6 +204,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MzDOCK](https://github.com/Muzatheking12/MzDOCK) - GUI docking pipeline.
 - [Uni-Mol Docking V2](https://www.bohrium.com/apps/unimoldockingv2/job?type=app) - AI-assisted docking.
 - [Vina on Colab](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) - Run Vina in Google Colab.
+- [MetalDock](https://metaldock.readthedocs.io/en/latest/) -  A Python-based tool designed for the docking of metal-organic compounds to proteins, DNA, or other biomolecules. 
 
 ---
 
