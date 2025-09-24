@@ -374,5 +374,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AI Laboratory for Molecular Engineering](https://ailab.bio/) - PROTACs, molecular glues, and ML for chemistry and life sciences. (Chalmers University, Sweden)  
 - [Loschmidt Labs - PEG](https://loschmidt.chemi.muni.cz/peg/) - Protein and enzyme engineering, AI-assisted enzyme design. (Masaryk University, Czechia)
 - [QSAR4U](https://qsar4u.com/index.php) - Cheminformatics tools, QSAR modeling, CReM, and EasyDock. (Palacky University, Czechia)
+- [LBMD](https://www.chem.kuleuven.be/lbmd/index.html) - Computational strategies to understand and engineer biomolecular systems. (KU Leuven, Belgium)
 
 ---
