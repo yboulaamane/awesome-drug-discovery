@@ -321,6 +321,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular structure prediction and modeling tools.
 - [PlayMolecule](https://open.playmolecule.org/landing) - Interactive molecular modeling and simulation platform.
 - [Ertl Molecular](https://ertlmolecular.com/) - Cheminformatics tools for medicinal chemists, including scaffold analysis, ring replacement, and property calculators.
+- [Datagrok](https://datagrok.ai/) - A high-performance environment for working with chemical data, covering full-range of tasks from data access to de novo design.
 ---
 
 ## Learning Resources
