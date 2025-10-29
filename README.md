@@ -280,7 +280,7 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
-- [scikit-mol](https://github.com/datamol-io/scikit-mol) - scikit-learn compatible cheminformatics extensions for molecular ML workflows.  
+- [scikit-mol](https://github.com/datamol-io/scikit-mol) - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.  
 - [Chemprop](https://github.com/chemprop/chemprop) - Directed message passing neural networks for molecular property prediction.
 - [ChemML](https://github.com/hachmannlab/chemml) - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
 - [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
