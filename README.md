@@ -143,7 +143,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [QSAR Toolbox](https://qsartoolbox.org/) - Hazard assessment and QSAR.
 - [OCHEM](https://ochem.eu/home/show.do) - QSAR model building and prediction.
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - QSAR and cheminformatics suite.
-- [3D-QSAR](https://www.3d-qsar.com/) - 3D-QSAR modeling resources.
+- [3D-QSAR](https://www.3d-qsar.com/) - Web resources for 3D QSAR modeling.
 - [QSAR-Co](https://sites.google.com/view/qsar-co/) - Robust multitarget QSAR modeling.
 - [DataWarrior](https://openmolecules.org/datawarrior/) - Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) - Workflow platform for cheminformatics and ML integration.
