@@ -276,11 +276,11 @@ A meticulously curated resource list focused on computational methods for drug d
 - [NumPy](https://numpy.org/) - Core library for numerical computing with support for arrays, matrices, and linear algebra.
 - [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis toolkit built on top of NumPy.
 - [Matplotlib](https://matplotlib.org/) - Comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [seaborn](https://seaborn.pydata.org/) - Statistical data visualization library built on top of Matplotlib.
+- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization library built on top of Matplotlib.
 
 ### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
-- [scikit-mol](https://github.com/datamol-io/scikit-mol) - Scikit-learn compatible cheminformatics extensions for molecular ML workflows.  
+- [scikit-mol](https://github.com/datamol-io/scikit-mol) - scikit-learn compatible cheminformatics extensions for molecular ML workflows.  
 - [Chemprop](https://github.com/chemprop/chemprop) - Directed message passing neural networks for molecular property prediction.
 - [ChemML](https://github.com/hachmannlab/chemml) - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
 - [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
