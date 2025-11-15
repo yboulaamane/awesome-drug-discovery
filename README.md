@@ -90,6 +90,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ExCAPE-DB](https://solr.ideaconsult.net/search/excape/) - A large-scale chemogenomics database.  
 - [Therapeutics Data Commons](https://tdcommons.ai/) - AI/ML-ready datasets and learning tasks for therapeutics.
 - [Therapeutic Target Database (TTD)](https://idrblab.net/ttd/) - Drug targets with linked diseases and compounds.
+- [Aircheck Datasets](https://aircheck.ai/datasets) - Curated DEL datasets for AI‑driven drug discovery, enabling benchmarking and model development.
 
 ---
 
