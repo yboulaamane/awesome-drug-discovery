@@ -91,6 +91,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Therapeutics Data Commons](https://tdcommons.ai/) - AI/ML-ready datasets and learning tasks for therapeutics.
 - [Therapeutic Target Database (TTD)](https://idrblab.net/ttd/) - Drug targets with linked diseases and compounds.
 - [Aircheck Datasets](https://aircheck.ai/datasets) - Curated DEL datasets for AI‑driven drug discovery, enabling benchmarking and model development.
+- [BGPT](https://github.com/connerlambden/bgpt-mcp) - MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies.
 
 ---
 
