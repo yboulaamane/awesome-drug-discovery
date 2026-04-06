@@ -380,4 +380,10 @@ A meticulously curated resource list focused on computational methods for drug d
 - [QSAR4U](https://qsar4u.com/index.php) - Cheminformatics tools, QSAR modeling, CReM, and EasyDock. (Palacky University, Czechia)
 - [LBMD](https://www.chem.kuleuven.be/lbmd/index.html) - Computational strategies to understand and engineer biomolecular systems. (KU Leuven, Belgium)
 
+## API Platforms and Gateways
+
+Unified API services providing programmatic access to multiple drug discovery computational tools.
+
+- **[SciRouter](https://scirouter.ai)** - Unified API for computational drug discovery. Provides programmatic access to protein structure prediction (ESMFold), molecular docking (AutoDock Vina), binding pocket detection, ADME/Tox profiling (ADMET-AI), molecule generation (REINVENT4), synthetic accessibility scoring, target profiling (UniProt + ChEMBL + OpenTargets), protein sequence design (ProteinMPNN), antibody structure prediction (ImmuneBuilder), and CDR design (AntiFold). Includes end-to-end lab pipelines. Python SDK: `pip install scirouter`. Free tier: 500 API calls/month.
+
 ---
