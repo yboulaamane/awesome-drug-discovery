@@ -295,6 +295,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) - Pretrained BERT-like models for molecules from SMILES.
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) - 3D molecular representation learning framework.
 - [Boltz-2](https://github.com/jwohlwend/boltz) - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.  
+- [PharmaCore](https://github.com/reacherwu/PharmaCore) - Apple Silicon-native AI drug discovery with de novo generation and drug repurposing using sparse ESM-2/ChemBERTa models (50% pruned, 97%+ quality, fully local inference).
 
 ### AutoML and Optimization
 - [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) - Automated machine learning for scikit-learn.
