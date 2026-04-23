@@ -304,6 +304,9 @@ A meticulously curated resource list focused on computational methods for drug d
 ### Molecule Standardization
 - [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization library based on RDKit.
 
+### AI Powered Visualizations
+- [ChemIllusion](https://chemillusion.com) - AI powered molecule and protein visualization via chat.
+
 ---
 
 ## Utility and Workflow Tools
