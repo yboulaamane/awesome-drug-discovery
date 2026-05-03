@@ -159,6 +159,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MolFeat](https://molfeat.datamol.io/) - Python package for molecular featurization and embeddings.
 - [Dragon](https://www.talete.mi.it/products/dragon_description.htm) - Commercial molecular descriptor calculator (widely cited).
 - [ChemDescriptor](https://github.com/darkreactions/chemdescriptor) - Open-source tool for generating chemical descriptors and fingerprints, supporting cheminformatics workflows.
+- [FPembed](https://github.com/Sciencealone/fpembed) - Python package for generating compressed molecular fingerprint embeddings.
 
 ### Molecular Property Prediction
 - [SwissADME](http://www.swissadme.ch/) - Drug-likeness and PK.
