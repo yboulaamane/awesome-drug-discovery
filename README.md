@@ -371,6 +371,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Neurosnap](https://neurosnap.ai/) - Web platform providing no-code interfaces to bioinformatics and ML tools including AlphaFold.
 - [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 - [rdkit-agent](https://github.com/scottmreed/rdkit-agent) - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI drug discovery agents on Solana. Verify agent wallet identity before x402 micropayments to molecular databases, bioassay APIs, and CADD services. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ---
 
