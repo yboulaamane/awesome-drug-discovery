@@ -229,6 +229,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MetalDock](https://metaldock.readthedocs.io/en/latest/) - A Python-based tool designed for the docking of metal-organic compounds to proteins, DNA, or other biomolecules.
 - [Chopdock](https://github.com/JanoschMenke/chopdock) - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
 - [Boltzmann Maps](https://boltzmannmaps.com/) - Web application for structure-guided drug design using pre-computed water and chemical fragment maps.
+- [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking with GNINA scoring and PoseBusters filtering.
+- [Bento](https://github.com/LigandPro/Bento) - UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.
 
 ---
 
@@ -242,6 +244,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Avogadro](https://avogadro.cc/) - Cross-platform molecular editor and visualizer featuring an extensible plugin system.
 - [xyzrender](https://github.com/aligfellow/xyzrender) - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
 - [pymol-sifts](https://github.com/connyyu/pymol_sifts/) - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
+- [Burrete](https://github.com/SergeiNikolenko/Burrete) - macOS menu bar app and Quick Look extension for molecular previews with Mol* 3D, fast XYZ rendering, xyzrender SVG, and RDKit grids.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation toolkit with symmetry-corrected RMSD and lightweight PoseBusters-style clash filters.
 
 ---
 
@@ -363,6 +367,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AssayCurveFit](https://assaycurvefit.com/) - Web application for processing dose-response data and generating IC50/EC50 curve fits.
 - [AssayCurveFit (GitHub)](https://github.com/yapici/assaycurvefit) - Source repository for IC50/EC50 calculation from biochemical assays.
 - [biopipelines](https://github.com/locbp-uzh/biopipelines) - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, reports, CLI, and TUI.
 - [CHEESE](https://cheese.deepmedchem.com/) - AI-driven interactive tool for analyzing chemical spaces and optimizing hit compounds.
 - [chembl_webresource_client](https://github.com/chembl/chembl_webresource_client) - Official Python client library for programmatic access to the ChEMBL database API.
 - [ChemIllusion MCP](https://chemillusion.com/mcp-server) - Model Context Protocol server providing language models with tools for generating and analyzing molecular data.
