@@ -229,6 +229,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MetalDock](https://metaldock.readthedocs.io/en/latest/) - A Python-based tool designed for the docking of metal-organic compounds to proteins, DNA, or other biomolecules.
 - [Chopdock](https://github.com/JanoschMenke/chopdock) - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
 - [Boltzmann Maps](https://boltzmannmaps.com/) - Web application for structure-guided drug design using pre-computed water and chemical fragment maps.
+- [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking with GNINA scoring and PoseBusters filtering.
 
 ---
 
