@@ -363,6 +363,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AssayCurveFit](https://assaycurvefit.com/) - Web application for processing dose-response data and generating IC50/EC50 curve fits.
 - [AssayCurveFit (GitHub)](https://github.com/yapici/assaycurvefit) - Source repository for IC50/EC50 calculation from biochemical assays.
 - [biopipelines](https://github.com/locbp-uzh/biopipelines) - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, reports, CLI, and TUI.
 - [CHEESE](https://cheese.deepmedchem.com/) - AI-driven interactive tool for analyzing chemical spaces and optimizing hit compounds.
 - [chembl_webresource_client](https://github.com/chembl/chembl_webresource_client) - Official Python client library for programmatic access to the ChEMBL database API.
 - [ChemIllusion MCP](https://chemillusion.com/mcp-server) - Model Context Protocol server providing language models with tools for generating and analyzing molecular data.
