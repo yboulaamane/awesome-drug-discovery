@@ -242,6 +242,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Avogadro](https://avogadro.cc/) - Cross-platform molecular editor and visualizer featuring an extensible plugin system.
 - [xyzrender](https://github.com/aligfellow/xyzrender) - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
 - [pymol-sifts](https://github.com/connyyu/pymol_sifts/) - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation toolkit with symmetry-corrected RMSD and lightweight PoseBusters-style clash filters.
 
 ---
 
