@@ -371,6 +371,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Neurosnap](https://neurosnap.ai/) - Web platform providing no-code interfaces to bioinformatics and ML tools including AlphaFold.
 - [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 - [rdkit-agent](https://github.com/scottmreed/rdkit-agent) - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
+- [Superhighway Drug Discovery Research Agent](https://superhighway.walls.sh/guides/drug-discovery-research-agent) - Python agent that researches drug pipelines, clinical trial results (NCT IDs), FDA status, and competitive landscapes via live web search to generate structured intelligence briefs.
 
 ---
 
