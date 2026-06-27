@@ -234,6 +234,7 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ## Interaction Analysis and Visualization
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation with symmetry-corrected RMSD and lightweight distance and clash filters.
 - [GetContacts](https://getcontacts.github.io/index.html) - Compute and visualize noncovalent interactions from structures and MD trajectories.
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - 2D interaction diagrams.
 - [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - Advanced visualization.
