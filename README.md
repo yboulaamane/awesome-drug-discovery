@@ -329,7 +329,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) - Pretrained BERT-like models for molecules from SMILES.
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) - 3D molecular representation learning framework.
 - [Boltz-2](https://github.com/jwohlwend/boltz) - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
-- [Zatom](https://github.com/Zatom-AI/zatom) - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
+- [MMELON](https://github.com/BiomedSciAI/biomed-multi-view) - Multi-view Molecular Embedding with Late Fusion combining graph, image, and text representations.
 
 ### AutoML and Optimization
 - [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) - Automated machine learning for scikit-learn.
