@@ -43,6 +43,7 @@ A meticulously curated resource list focused on computational methods for drug d
   - [Blogs](#blogs)  
   - [Instructional Notebooks](#instructional-notebooks)
 - [Labs and Research Groups](#labs-and-research-groups)
+
 ---
 
 ## Databases and Chemical Libraries
@@ -57,7 +58,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.
 - [Eximed](https://eximedlab.com/Screening-Compounds.html) - 60k+ compounds for virtual screening.
 - [OTAVA NP-like Library](https://otavachemicals.com/sdf) - Screening compounds for prompt delivery.
-- [Ambinter](https://www.ambinter.com/) - 40M+ compounds for HTS, building blocks, and a wide selection of fragments and natural products.  
+- [Ambinter](https://www.ambinter.com/) - 40M+ compounds for HTS, building blocks, and a wide selection of fragments and natural products.
+- [VAST Chemical Space](https://www.aifchem.com/vast) - 4.6 billion synthetically accessible compounds for virtual screening and hit expansion.
 
 ### Natural Product Libraries
 - [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
@@ -91,6 +93,10 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Therapeutics Data Commons](https://tdcommons.ai/) - AI/ML-ready datasets and learning tasks for therapeutics.
 - [Therapeutic Target Database (TTD)](https://idrblab.net/ttd/) - Drug targets with linked diseases and compounds.
 - [Aircheck Datasets](https://aircheck.ai/datasets) - Curated DEL datasets for AI‑driven drug discovery, enabling benchmarking and model development.
+- [canSAR](https://cansar.ai/) - Integrative cancer knowledgebase aggregating molecular, genetic, and structural data for drug target identification.
+- [CDD Vault](https://www.collaborativedrug.com/public-access-cdd-vault) - Hosted informatics platform providing public access to aggregated drug discovery data.
+- [ClinicalTrials.gov](https://clinicaltrials.gov/) - Comprehensive registry and results database for clinical studies involving human participants.
+- [HSADab](https://github.com/proszxppp/HSADab) - Database of binding thermodynamics, structures, and docking data for human serum albumin.
 
 ---
 
@@ -104,6 +110,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [InterPro](https://www.ebi.ac.uk/interpro/) - Protein classification and domain prediction.
 - [AlphaFold DB](https://alphafold.ebi.ac.uk/) - Predicted structures from AlphaFold.
 - [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page) - Interactive protein visualizations.
+- [Pfam](https://pfam.xfam.org/) - Collection of protein families represented by multiple sequence alignments and hidden Markov models.
+- [Human Protein Atlas](https://www.proteinatlas.org/) - Spatial mapping of all human proteins across tissues and cells.
 
 ### Binding Site and Pocket Detection
 - [PrankWeb](https://prankweb.cz/) - Pocket prediction and analysis.
@@ -111,12 +119,17 @@ A meticulously curated resource list focused on computational methods for drug d
 - [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - Pocket detection and druggability.
 - [CaverWeb](https://loschmidt.chemi.muni.cz/caverweb/) - Tunnel and channel detection.
 - [PASSer](https://passer.smu.edu/) - Allosteric site prediction.
+- [Pocket Binding Site Prediction](https://github.com/MariaPau03/Pocket_Binding_Site_Prediction) - ML-based tool for predicting binding pockets and active sites on protein structures.
+- [Protplex](https://protplex.com/) - Semantic search engine for the PDB enabling multidimensional queries on structures and binding pockets.
 
 ### Protein Engineering and Modeling
 - [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - Predicts mutation-induced stability changes.
 - [SWISS-MODEL](https://swissmodel.expasy.org/) - A fully automated protein structure homology-modeling server.
 - [MODELLER](https://salilab.org/modeller/) - A software for homology or comparative modeling of protein structures.
 - [PDBFixer](https://github.com/openmm/pdbfixer) - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
+- [OpenFold Portal](https://portal.openfold.omsf.io/) - Cloud portal for predicting 3D protein structures using the open-source OpenFold model.
+- [Melodia](https://github.com/rwmontalvao/Melodia_py) - Python library for analyzing and comparing protein structure shapes via differential geometry.
+
 ---
 
 ## Network Pharmacology
@@ -132,6 +145,12 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ChEA3](https://maayanlab.cloud/chea3/) - Transcription factor enrichment tool integrating ChIP-seq, co-expression, and perturbation datasets.
 - [miRDB](https://mirdb.org/) - Predicts functional microRNA targets using machine learning and high-throughput data.
 - [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - A web tool for comparing lists using Venn diagrams.
+- [OMIM](https://www.omim.org/) - Authoritative compendium of human genes and their relationship to genetic variation and phenotypic expression.
+- [PharmGKB](https://pgx-db.org/target_lookup/) - Pharmacogenomics resource exploring genetic variation impacts on drug response and molecular targets.
+- [Polypharmacology Browser PPB3](https://ppb3.gdb.tools/) - Deep learning tool predicting off-target effects and polypharmacology for bioactive molecules.
+- [Drug-Target Interaction Explorer](https://github.com/yashhhhhhhhh504/Drug-Target-Interaction-Explorer) - Dashboard for exploring and visualizing drug-target interaction networks.
+
+---
 
 ## Ligand Design and Optimization
 
@@ -149,7 +168,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [DataWarrior](https://openmolecules.org/datawarrior/) - Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) - Workflow platform for cheminformatics and ML integration.
 - [pyADA](https://github.com/jeffrichardchemistry/pyADA) - Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.
-  
+
 ### Descriptor and Featurization Tools
 - [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.  
 - [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) - Java tool for calculating molecular descriptors and fingerprints.  
@@ -180,7 +199,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [FragBuilder](https://github.com/andersx/fragbuilder) - Python API for building peptide-like and small molecule fragments.  
 - [SeeSAR](https://www.biosolveit.de/SeeSAR/) - Fragment growing and linking software (free academic version).
 - [Enamine Fragment Libraries](https://enamine.net/compound-libraries/fragment-libraries) - Large curated collection of diverse fragments for FBDD.
-  
+- [FragmentFinder](https://github.com/1JELC1/FragmentFinder) - Computational tool for identifying and matching structural fragments in drug discovery workflows.
+
 ---
 
 ## Virtual Screening and Docking
@@ -206,18 +226,23 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MzDOCK](https://github.com/Muzatheking12/MzDOCK) - GUI docking pipeline.
 - [Uni-Mol Docking V2](https://www.bohrium.com/apps/unimoldockingv2/job?type=app) - AI-assisted docking.
 - [Vina on Colab](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) - Run Vina in Google Colab.
-- [MetalDock](https://metaldock.readthedocs.io/en/latest/) -  A Python-based tool designed for the docking of metal-organic compounds to proteins, DNA, or other biomolecules. 
+- [MetalDock](https://metaldock.readthedocs.io/en/latest/) - A Python-based tool designed for the docking of metal-organic compounds to proteins, DNA, or other biomolecules.
+- [Chopdock](https://github.com/JanoschMenke/chopdock) - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
+- [Boltzmann Maps](https://boltzmannmaps.com/) - Web application for structure-guided drug design using pre-computed water and chemical fragment maps.
 
 ---
 
 ## Interaction Analysis and Visualization
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation with symmetry-corrected RMSD and lightweight distance and clash filters.
 - [GetContacts](https://getcontacts.github.io/index.html) - Compute and visualize noncovalent interactions from structures and MD trajectories.
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - 2D interaction diagrams.
 - [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - Advanced visualization.
 - [PyMOL](https://www.pymol.org/) - Python-based molecular visualization software.
 - [UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/) - A molecular visualization program with emphasis on structural biology.
 - [Avogadro](https://avogadro.cc/) - Cross-platform molecular editor and visualizer featuring an extensible plugin system.
+- [xyzrender](https://github.com/aligfellow/xyzrender) - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
+- [pymol-sifts](https://github.com/connyyu/pymol_sifts/) - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
 
 ---
 
@@ -247,6 +272,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Grace](https://plasma-gate.weizmann.ac.il/Grace/) - 2D plotting tool for Unix-like systems with advanced graphing, fitting, and analysis features.
 - [CPPTRAJ](https://amberhub.chpc.utah.edu/cpptraj/) - Fast, parallelizable trajectory analysis from AMBER.
 - [MDAnalysis](https://www.mdanalysis.org/) - Open-source Python library for analyzing MD simulations.
+- [CABS-flex 3.0](https://lcbio.pl/cabsflex3/) - Web server for rapid simulation of protein and peptide structural flexibility using coarse-grained models.
+- [cmd-viewer](https://github.com/Kopec-Lab/cmd-viewer) - Tool for visualizing and analyzing MD simulation trajectories and structural data.
+
 ---
 
 ## Synthesis and Retrosynthesis Planning
@@ -255,6 +283,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
 - [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
 - [MANIFOLD](https://app.postera.ai/manifold/) - Search engine for synthetically accessible molecules and building blocks.
+- [onepot.ai](https://www.onepot.ai/) - AI-enabled molecular editor and synthesis planning platform with an encrypted structure environment.
+
 ---
 
 ## Specialized Modalities
@@ -267,6 +297,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [PepDraw](https://pepdraw.com/) - Peptide visualization with annotated physicochemical properties.
 - [PepSite](http://pepsite2.russelllab.org/) - Predict peptide binding sites on protein surfaces using structural data.
 - [Peptimap](https://peptimap.bu.edu/) - Peptide mapping and binding hotspots identification.
+
 ---
 
 ## Machine Learning and AI
@@ -289,6 +320,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
 - [TorchDrug](https://torchdrug.ai/) - A machine learning library for drug discovery with support for GNNs and molecular datasets.
 - [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - Graph deep learning toolkit for life sciences using the Deep Graph Library.
+- [iChem](https://github.com/mqcomplab/iChem) - Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.
+- [LigandForge](https://github.com/HTS-Oracle/LigandForge) - ML-based structure-guided de novo ligand generation and optimization for hit identification.
+- [LigandForge Web](https://ligandforge.onrender.com/) - Web interface for LigandForge with interactive 3D visualization of lead compound candidates.
 
 ### Pretrained Models
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - Transformer-based molecular representation learning.
@@ -304,6 +338,7 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ### Molecule Standardization
 - [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization library based on RDKit.
+- [cleanmol](https://github.com/nurtilekgalimov/cleanmol) - Python library for cleaning, standardizing, and preparing molecular structures for cheminformatics workflows.
 
 ---
 
@@ -322,10 +357,23 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Click2Drug](https://www.click2drug.org/) - CADD software and databases directory.
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - Galaxy instance for cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - CADD resources repository.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, and reports.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular structure prediction and modeling tools.
 - [PlayMolecule](https://open.playmolecule.org/landing) - Interactive molecular modeling and simulation platform.
 - [Ertl Molecular](https://ertlmolecular.com/) - Cheminformatics tools for medicinal chemists, including scaffold analysis, ring replacement, and property calculators.
 - [Datagrok](https://datagrok.ai/) - Environment for working with chemical data, covering full-range of tasks from data access to de novo design.
+- [AssayCurveFit](https://assaycurvefit.com/) - Web application for processing dose-response data and generating IC50/EC50 curve fits.
+- [AssayCurveFit (GitHub)](https://github.com/yapici/assaycurvefit) - Source repository for IC50/EC50 calculation from biochemical assays.
+- [biopipelines](https://github.com/locbp-uzh/biopipelines) - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
+- [CHEESE](https://cheese.deepmedchem.com/) - AI-driven interactive tool for analyzing chemical spaces and optimizing hit compounds.
+- [chembl_webresource_client](https://github.com/chembl/chembl_webresource_client) - Official Python client library for programmatic access to the ChEMBL database API.
+- [ChemIllusion MCP](https://chemillusion.com/mcp-server) - Model Context Protocol server providing language models with tools for generating and analyzing molecular data.
+- [ComProScanner](https://github.com/slimeslab/ComProScanner) - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
+- [NAMI](https://github.com/mqcomplab/NAMI) - Computational tool for clustering and evaluating differences across molecular datasets.
+- [Neurosnap](https://neurosnap.ai/) - Web platform providing no-code interfaces to bioinformatics and ML tools including AlphaFold.
+- [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
+- [rdkit-agent](https://github.com/scottmreed/rdkit-agent) - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
+
 ---
 
 ## Learning Resources
@@ -340,6 +388,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python tutorials for molecular docking via RCSB.
 - [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Workshop on generative and computational drug design.
 - [MDTutorials](http://www.mdtutorials.com/gmx/) - Step-by-step tutorials for MD simulations using GROMACS.
+- [Computer Aided Drug Design](https://courses.ebo-bio-solution.co.uk/courses/introduction-to-chemoinformatics-and-computational-drug-discovery/lessons/1-computer-aided-drug-design/) - Foundational introduction to chemoinformatics and computational drug design.
+- [Resources for Learning Bioinformatics](https://learnbioinformatics.org/) - Curated collection of tutorials and materials for bioinformatics and computational biology.
+- [Synthesis Workshop](https://synthesis-workshop.com/) - Open-access video podcast on advanced organic synthesis and medicinal chemistry.
 
 ### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
@@ -362,6 +413,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - Notebook-based introduction to AI applications in pharma.
 - [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive notebooks showcasing AI/DL use cases in life sciences.
+- [Fingerprint Generator Tutorial](https://greglandrum.github.io/rdkit-blog/posts/2023-01-18-fingerprint-generator-tutorial.html) - RDKit blog tutorial on generating and manipulating molecular fingerprints.
+- [how-to-train-your-chemeleon](https://github.com/JacksonBurns/how-to-train-your-chemeleon) - Tutorial and framework for training chemical machine learning models.
+- [rdkit-tips-and-tricks](https://github.com/mohamedzaghloul-lab638/rdkit-tips-and-tricks-/tree/main) - Practical snippets and examples for the RDKit cheminformatics toolkit.
 
 ## Labs and Research Groups
 
