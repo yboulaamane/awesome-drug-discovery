@@ -357,6 +357,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Click2Drug](https://www.click2drug.org/) - CADD software and databases directory.
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - Galaxy instance for cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - CADD resources repository.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, and reports.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular structure prediction and modeling tools.
 - [PlayMolecule](https://open.playmolecule.org/landing) - Interactive molecular modeling and simulation platform.
 - [Ertl Molecular](https://ertlmolecular.com/) - Cheminformatics tools for medicinal chemists, including scaffold analysis, ring replacement, and property calculators.
