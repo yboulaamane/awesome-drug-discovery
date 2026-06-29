@@ -60,6 +60,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [OTAVA NP-like Library](https://otavachemicals.com/sdf) - Screening compounds for prompt delivery.
 - [Ambinter](https://www.ambinter.com/) - 40M+ compounds for HTS, building blocks, and a wide selection of fragments and natural products.
 - [VAST Chemical Space](https://www.aifchem.com/vast) - 4.6 billion synthetically accessible compounds for virtual screening and hit expansion.
+- [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026) - Open reference dataset of 156 peptide and peptide-adjacent compounds with regulatory status, CAS, molecular weight, half-life, and PubChem/DrugBank/Wikidata IDs (CSV/JSON, CC BY 4.0).
 
 ### Natural Product Libraries
 - [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
