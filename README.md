@@ -368,6 +368,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [CHEESE](https://cheese.deepmedchem.com/) - AI-driven interactive tool for analyzing chemical spaces and optimizing hit compounds.
 - [chembl_webresource_client](https://github.com/chembl/chembl_webresource_client) - Official Python client library for programmatic access to the ChEMBL database API.
 - [ChemIllusion MCP](https://chemillusion.com/mcp-server) - Model Context Protocol server providing language models with tools for generating and analyzing molecular data.
+- [CovaSyn MCP](https://www.covasyn.com) - Deterministic chemistry MCP server with 130+ tools for pharmaceutical R&D — ADMET, ICH M7 mutagenic impurity assessment, ICH Q1 stability, mass spec, NMR, formulation DoE, biologics, docking. Callable from Claude, ChatGPT, Cursor, Copilot, and any HTTP client. Audit-trail-complete, GxP-aligned, EU-hosted, free tier 100 credits/week. MIT-licensed [integration snippets](https://github.com/oliverkraft93-ops/covasyn-mcp-examples).
 - [ComProScanner](https://github.com/slimeslab/ComProScanner) - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
 - [NAMI](https://github.com/mqcomplab/NAMI) - Computational tool for clustering and evaluating differences across molecular datasets.
 - [Neurosnap](https://neurosnap.ai/) - Web platform providing no-code interfaces to bioinformatics and ML tools including AlphaFold.
