@@ -340,6 +340,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization library based on RDKit.
 - [cleanmol](https://github.com/nurtilekgalimov/cleanmol) - Python library for cleaning, standardizing, and preparing molecular structures for cheminformatics workflows.
 
+### AI Powered Visualizations
+- [ChemIllusion](https://chemillusion.com) - AI powered molecule and protein visualization via chat.
+
 ---
 
 ## Utility and Workflow Tools
