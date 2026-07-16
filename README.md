@@ -69,7 +69,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 27k+ African medicinal plant compounds.  
 - [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa.  
 - [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.  
-- [SistematX](https://sistematx.ufpb.br/) - 8k+ secondary metabolites.  
+- [SistematX](http://sistematx.ufpb.br/) - 8k+ secondary metabolites.  
 - [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - A manually curated database on coumarins from plants.  
 - [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - Artemisia genus compounds.  
 - [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.  
@@ -96,6 +96,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [canSAR](https://cansar.ai/) - Integrative cancer knowledgebase aggregating molecular, genetic, and structural data for drug target identification.
 - [CDD Vault](https://www.collaborativedrug.com/public-access-cdd-vault) - Hosted informatics platform providing public access to aggregated drug discovery data.
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) - Comprehensive registry and results database for clinical studies involving human participants.
+- [CovalentInDB (CIDB)](https://cadd.zju.edu.cn/cidb/) - A comprehensive database dedicated to covalent inhibitors, targets, and experimental data.
 - [HSADab](https://github.com/proszxppp/HSADab) - Database of binding thermodynamics, structures, and docking data for human serum albumin.
 
 ---
@@ -110,7 +111,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [InterPro](https://www.ebi.ac.uk/interpro/) - Protein classification and domain prediction.
 - [AlphaFold DB](https://alphafold.ebi.ac.uk/) - Predicted structures from AlphaFold.
 - [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page) - Interactive protein visualizations.
-- [Pfam](https://pfam.xfam.org/) - Collection of protein families represented by multiple sequence alignments and hidden Markov models.
+- [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/) - Collection of protein families represented by multiple sequence alignments and hidden Markov models.
 - [Human Protein Atlas](https://www.proteinatlas.org/) - Spatial mapping of all human proteins across tissues and cells.
 
 ### Binding Site and Pocket Detection
@@ -128,6 +129,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MODELLER](https://salilab.org/modeller/) - A software for homology or comparative modeling of protein structures.
 - [PDBFixer](https://github.com/openmm/pdbfixer) - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
 - [OpenFold Portal](https://portal.openfold.omsf.io/) - Cloud portal for predicting 3D protein structures using the open-source OpenFold model.
+- [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) - Open-source method for de novo protein design using structure-guided diffusion models.
 - [Melodia](https://github.com/rwmontalvao/Melodia_py) - Python library for analyzing and comparing protein structure shapes via differential geometry.
 
 ---
@@ -155,9 +157,7 @@ A meticulously curated resource list focused on computational methods for drug d
 ## Ligand Design and Optimization
 
 ### Pharmacophore Modeling
-- [ZINCPharmer](http://zincpharmer.csb.pitt.edu/) - Pharmacophore screening.
 - [Pharmit](https://pharmit.csb.pitt.edu/) - Interactive pharmacophore modeling.
-- [AnchorQuery](http://anchorquery.csb.pitt.edu/) - Pharmacophore-based search engine specialized in protein–protein interaction sites.
 
 ### QSAR and Descriptor Tools
 - [QSAR Toolbox](https://qsartoolbox.org/) - Hazard assessment and QSAR.
@@ -165,6 +165,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - QSAR and cheminformatics suite.
 - [3D-QSAR](https://www.3d-qsar.com/) - Web resources for 3D QSAR modeling.
 - [QSAR-Co](https://sites.google.com/view/qsar-co/) - Robust multitarget QSAR modeling.
+- [QSPRpred](https://github.com/CDDLeiden/QSPRpred) - Open-source Python toolkit for building, reproducing, and deploying QSAR/QSPR models.
 - [DataWarrior](https://openmolecules.org/datawarrior/) - Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) - Workflow platform for cheminformatics and ML integration.
 - [pyADA](https://github.com/jeffrichardchemistry/pyADA) - Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.
@@ -257,15 +258,15 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Desmond](https://www.deshawresearch.com/resources.html) - GPU-accelerated MD engine for high-performance simulations.
 
 ### Topology and Force Field Tools
-- [CGenFF](https://cgenff.umaryland.edu/) - CHARMM force field parametrization of drug-like molecules.
+- [CGenFF](https://cgenff.silcsbio.com/) - CHARMM force field parametrization of drug-like molecules.
 - [SwissParam](https://www.swissparam.ch/) - Rapid generation of CHARMM-compatible parameters for small organic molecules.
 - [ATB](https://atb.uq.edu.au/) - Automated topology builder and repository for classical force field parameters.
 - [CHARMM-GUI](https://www.charmm-gui.org/) - Web-based interface for building complex biomolecular systems and generating MD input files.
-- [LigParGen](https://zarbi.chem.yale.edu/ligpargen/) - Automated OPLS-AA parameter generator for organic ligands.
+- [LigParGen](https://traken.chem.yale.edu/ligpargen/) - Automated OPLS-AA parameter generator for organic ligands.
 
 ### Analysis Tools
 - [MD DaVis](https://md-davis.readthedocs.io/en/latest/index.html) - Interactive visualization and analysis of MD trajectories.
-- [iMod](https://imods.iqfr.csic.es/) - Normal Mode Analysis toolkit using internal coordinates.
+- [iMODS](https://imods.chaconlab.org/) - Normal Mode Analysis toolkit using internal coordinates.
 - [MolAiCal](https://molaical.github.io/) - Web-based platform for binding free energy calculations using MM/PBSA and MM/GBSA methods.
 - [gmx_MMPBSA](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/) - Port of AMBER MMPBSA.py for GROMACS.
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/) - Large biomolecular systems visualization and analysis using 3D graphics and scripting.
@@ -274,6 +275,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MDAnalysis](https://www.mdanalysis.org/) - Open-source Python library for analyzing MD simulations.
 - [CABS-flex 3.0](https://lcbio.pl/cabsflex3/) - Web server for rapid simulation of protein and peptide structural flexibility using coarse-grained models.
 - [cmd-viewer](https://github.com/Kopec-Lab/cmd-viewer) - Tool for visualizing and analyzing MD simulation trajectories and structural data.
+- [Pharmacon](https://github.com/k-georgiou/pharmacon) - Open-source toolkit for molecular dynamics simulation analysis in medicinal chemistry.
 
 ---
 
@@ -282,7 +284,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Monte Carlo tree search-based retrosynthesis using trained neural networks.
 - [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
 - [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
-- [MANIFOLD](https://app.postera.ai/manifold/) - Search engine for synthetically accessible molecules and building blocks.
+- [MANIFOLD](https://postera.ai/) - Search engine for synthetically accessible molecules and building blocks.
 - [onepot.ai](https://www.onepot.ai/) - AI-enabled molecular editor and synthesis planning platform with an encrypted structure environment.
 
 ---
@@ -295,8 +297,7 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ### Peptide Design
 - [PepDraw](https://pepdraw.com/) - Peptide visualization with annotated physicochemical properties.
-- [PepSite](http://pepsite2.russelllab.org/) - Predict peptide binding sites on protein surfaces using structural data.
-- [Peptimap](https://peptimap.bu.edu/) - Peptide mapping and binding hotspots identification.
+- [Peptimap](http://peptimap.cluspro.org) - Peptide mapping and binding hotspots identification.
 
 ---
 
@@ -314,19 +315,21 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
-- [scikit-mol](https://github.com/datamol-io/scikit-mol) - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.  
+- [scikit-mol](https://github.com/EBjerrum/scikit-mol) - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.  
 - [Chemprop](https://github.com/chemprop/chemprop) - Directed message passing neural networks for molecular property prediction.
 - [ChemML](https://github.com/hachmannlab/chemml) - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
-- [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
+- [Oloren ChemEngine](https://pypi.org/project/olorenchemengine/) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
 - [TorchDrug](https://torchdrug.ai/) - A machine learning library for drug discovery with support for GNNs and molecular datasets.
 - [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 - [iChem](https://github.com/mqcomplab/iChem) - Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.
 - [LigandForge](https://github.com/HTS-Oracle/LigandForge) - ML-based structure-guided de novo ligand generation and optimization for hit identification.
-- [LigandForge Web](https://ligandforge.onrender.com/) - Web interface for LigandForge with interactive 3D visualization of lead compound candidates.
 
 ### Pretrained Models
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - Transformer-based molecular representation learning.
 - [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) - Pretrained BERT-like models for molecules from SMILES.
+- [Chai-1](https://github.com/chaidiscovery/chai-lab) - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
+- [ESM3](https://github.com/evolutionaryscale/esm) - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
+- [ESMc](https://biohub.ai/models/esmc) - A family of open protein language foundation models for sequence generation and design.
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) - 3D molecular representation learning framework.
 - [Boltz-2](https://github.com/jwohlwend/boltz) - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
 - [Zatom](https://github.com/Zatom-AI/zatom) - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
@@ -347,9 +350,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [OPSIN](https://opsin.ch.cam.ac.uk) - Convert IUPAC names to chemical structures.
 - [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Extract chemical structures from images.
 - [ChemPlot](https://chemplot.streamlit.app/) - Chemical space visualization.
-- [ChemDB](http://cdb.ics.uci.edu/) - Chemoinformatics portal with compound data and tools.
+- [ChemDB](https://chemdb.igb.uci.edu/) - Chemoinformatics portal with compound data and tools.
 - [Screening Explorer](http://stats.drugdesign.fr/) - Analyze screening datasets and hit distributions.
-- [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - Calculate RMSD between ligand poses.
+- [LigRMSD](http://150.164.32.52/rmsd-calculator) - Calculate RMSD between ligand poses.
 - [NERDD](https://nerdd.univie.ac.at/) - Curated drug discovery resources.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - De novo ligand design.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Web-based cheminformatics toolkit for compound analysis.
@@ -388,7 +391,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python tutorials for molecular docking via RCSB.
 - [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Workshop on generative and computational drug design.
 - [MDTutorials](http://www.mdtutorials.com/gmx/) - Step-by-step tutorials for MD simulations using GROMACS.
-- [Computer Aided Drug Design](https://courses.ebo-bio-solution.co.uk/courses/introduction-to-chemoinformatics-and-computational-drug-discovery/lessons/1-computer-aided-drug-design/) - Foundational introduction to chemoinformatics and computational drug design.
 - [Resources for Learning Bioinformatics](https://learnbioinformatics.org/) - Curated collection of tutorials and materials for bioinformatics and computational biology.
 - [Synthesis Workshop](https://synthesis-workshop.com/) - Open-access video podcast on advanced organic synthesis and medicinal chemistry.
 
