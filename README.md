@@ -69,7 +69,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 27k+ African medicinal plant compounds.  
 - [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa.  
 - [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.  
-- [SistematX](http://sistematx.ufpb.br/) - 8k+ secondary metabolites.  
+- [The Natural Products Atlas](https://www.npatlas.org/) - An open-access database for microbial natural products structures and metadata.  
 - [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - A manually curated database on coumarins from plants.  
 - [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - Artemisia genus compounds.  
 - [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.  
@@ -297,7 +297,8 @@ A meticulously curated resource list focused on computational methods for drug d
 
 ### Peptide Design
 - [PepDraw](https://pepdraw.com/) - Peptide visualization with annotated physicochemical properties.
-- [Peptimap](http://peptimap.cluspro.org) - Peptide mapping and binding hotspots identification.
+- [PEP-SiteFinder](https://bioserv.rpbs.univ-paris-diderot.fr/services/PEP-SiteFinder/) - Predicts peptide-binding sites on protein structures using drug-like ligand mapping.
+- [PEP-FOLD3](https://bioserv.rpbs.univ-paris-diderot.fr/services/PEP-FOLD3/) - De novo peptide structure prediction framework.
 
 ---
 
@@ -352,7 +353,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ChemPlot](https://chemplot.streamlit.app/) - Chemical space visualization.
 - [ChemDB](https://chemdb.igb.uci.edu/) - Chemoinformatics portal with compound data and tools.
 - [Screening Explorer](http://stats.drugdesign.fr/) - Analyze screening datasets and hit distributions.
-- [LigRMSD](http://150.164.32.52/rmsd-calculator) - Calculate RMSD between ligand poses.
+- [spyrmsd](https://github.com/RMeli/spyrmsd) - Python tool for symmetry-corrected RMSD calculations using graph isomorphism.
 - [NERDD](https://nerdd.univie.ac.at/) - Curated drug discovery resources.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - De novo ligand design.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Web-based cheminformatics toolkit for compound analysis.
