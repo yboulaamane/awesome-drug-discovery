@@ -388,6 +388,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [BIGCHEM](https://bigchem.eu/node/63) - Online course on big data applications in chemistry.
 - [Drug Discovery Course](https://www.stereoelectronics.org/webDD/DD_home.html) - Foundations of drug discovery and development.
 - [drugdesign.org](https://www.drugdesign.org/) - Free courses on drug design and cheminformatics.
+- [Learn CADD](https://learn-cadd.vercel.app/) - An interactive, visual, first-principles guide to computer-aided drug design.
 - [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics) - Intercollegiate course on cheminformatics theory and coding.
 - [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python tutorials for molecular docking via RCSB.
 - [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Workshop on generative and computational drug design.
