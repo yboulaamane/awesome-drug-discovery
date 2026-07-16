@@ -395,6 +395,10 @@ A meticulously curated resource list focused on computational methods for drug d
 - [MDTutorials](http://www.mdtutorials.com/gmx/) - Step-by-step tutorials for MD simulations using GROMACS.
 - [Resources for Learning Bioinformatics](https://learnbioinformatics.org/) - Curated collection of tutorials and materials for bioinformatics and computational biology.
 - [Synthesis Workshop](https://synthesis-workshop.com/) - Open-access video podcast on advanced organic synthesis and medicinal chemistry.
+- [AI for Chemistry (ai4chem Book)](https://zzhenglab.github.io/ai4chem/intro.html) - An open-access book and interactive guide to machine learning and AI in chemistry.
+- [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
+- [CCAS Training Materials](https://ccas.nd.edu/research/training-materials/) - Training resources for computer-assisted synthesis tools, reaction modeling, and machine learning.
+- [ML in Chemistry (CHEM 542)](https://sites.rutgers.edu/sun-lab/teach-chem542/) - Rutgers University course materials covering machine learning applications in chemical sciences.
 
 ### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
@@ -411,8 +415,12 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Jeremy Monat](https://bertiewooster.github.io/) - Cheminformatics research and academic resources.
 - [RDKit blog](https://greglandrum.github.io/rdkit-blog/) - A rich collection of tutorials, technical tips, and experimental insights from Greg Landrum.
 - [DeepMedChem](https://www.deepmedchem.com/) - AI-powered insights, tool reviews, and workflows for modern drug discovery.
+- [The Data Chemist's Handbook](https://data-chemist-handbook.github.io/) - A curated handbook with guidelines, code snippets, and tools for data-driven chemistry.
+- [Awesome Learning Digital Chemistry](https://github.com/mlederbauer/awesome-learning-digital-chemistry) - Curated compilation of resources for learning digital chemistry, including courses, tutorials, and books.
+- [CCAS Data sets, Tools, and Workflows](https://ccas.nd.edu/research/data-sets-tools-and-workflows/) - A repository of datasets and computational workflows for computer-assisted organic synthesis.
 
 ### Instructional Notebooks
+- [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
 - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Modular Jupyter tutorials for CADD workflows and concepts.
 - [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - Notebook-based introduction to AI applications in pharma.
 - [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.
