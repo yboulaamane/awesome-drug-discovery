@@ -213,6 +213,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AutoDock Vina](https://vina.scripps.edu/) - Popular docking software.
 - [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
 - [DiffDock](https://github.com/gcorso/DiffDock) - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.  
+- [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching for physically valid molecular docking.
 - [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.  
 - [Webina](https://durrantlab.pitt.edu/webina/) - Web-based Vina.
 - [Smina](https://github.com/mwojcikowski/smina) - Vina fork with extra features.
