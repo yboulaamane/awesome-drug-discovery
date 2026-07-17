@@ -212,6 +212,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
 - [AutoDock Vina](https://vina.scripps.edu/) - Popular docking software.
 - [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
+- [Bento](https://github.com/LigandPro/Bento) - Protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.
 - [DiffDock](https://github.com/gcorso/DiffDock) - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.  
 - [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.  
 - [Webina](https://durrantlab.pitt.edu/webina/) - Web-based Vina.
