@@ -242,6 +242,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [PyMOL](https://www.pymol.org/) - Python-based molecular visualization software.
 - [UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/) - A molecular visualization program with emphasis on structural biology.
 - [Avogadro](https://avogadro.cc/) - Cross-platform molecular editor and visualizer featuring an extensible plugin system.
+- [Burrete](https://github.com/SergeiNikolenko/Burrete) - macOS menu bar app and Quick Look extension for molecular previews.
 - [xyzrender](https://github.com/aligfellow/xyzrender) - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
 - [pymol-sifts](https://github.com/connyyu/pymol_sifts/) - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
 
