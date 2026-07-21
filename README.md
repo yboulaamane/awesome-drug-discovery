@@ -177,6 +177,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [CDK](https://cdk.github.io/) - Java cheminformatics library with descriptor calculators.  
 - [alvaDesc](https://www.alvascience.com/alvadesc/) - Commercial software for molecular descriptors and fingerprints.  
 - [MolFeat](https://molfeat.datamol.io/) - Python package for molecular featurization and embeddings.
+- [Morfeus](https://github.com/digital-chemistry-laboratory/morfeus) - Python package for calculating 3D steric and electronic parameters of molecules.
 - [Dragon](https://www.talete.mi.it/products/dragon_description.htm) - Commercial molecular descriptor calculator (widely cited).
 - [ChemDescriptor](https://github.com/darkreactions/chemdescriptor) - Open-source tool for generating chemical descriptors and fingerprints, supporting cheminformatics workflows.
 
