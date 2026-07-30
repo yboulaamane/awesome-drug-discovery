@@ -1,60 +1,54 @@
 # Awesome Drug Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A meticulously curated resource list focused on computational methods for drug discovery.
+Computational methods for identifying and developing new drug candidates.
 
 > Drug discovery is the process by which new candidate medications are identified, designed, and developed using experimental, computational, and informational techniques to address complex challenges in biology, chemistry, and medicine. — [Wikipedia](https://en.wikipedia.org/wiki/Drug_discovery)
 
----
-
 ## Contents
-- [Databases and Chemical Libraries](#databases-and-chemical-libraries)  
-  - [General Compound Libraries](#general-compound-libraries)  
-  - [Natural Product Libraries](#natural-product-libraries)  
-  - [Bioactivity Databases](#bioactivity-databases)  
-- [Target and Protein Data](#target-and-protein-data)  
-  - [Protein Structures](#protein-structures)  
-  - [Binding Site and Pocket Detection](#binding-site-and-pocket-detection)  
+- [Databases and Chemical Libraries](#databases-and-chemical-libraries)
+  - [General Compound Libraries](#general-compound-libraries)
+  - [Natural Product Libraries](#natural-product-libraries)
+  - [Bioactivity Databases](#bioactivity-databases)
+- [Target and Protein Data](#target-and-protein-data)
+  - [Protein Structures](#protein-structures)
+  - [Binding Site and Pocket Detection](#binding-site-and-pocket-detection)
   - [Protein Engineering and Modeling](#protein-engineering-and-modeling)
-- [Network Pharmacology](#network-pharmacology)  
-- [Ligand Design and Optimization](#ligand-design-and-optimization)  
-  - [Pharmacophore Modeling](#pharmacophore-modeling)  
-  - [QSAR and Descriptor Tools](#qsar-and-descriptor-tools)  
+- [Network Pharmacology](#network-pharmacology)
+- [Ligand Design and Optimization](#ligand-design-and-optimization)
+  - [Pharmacophore Modeling](#pharmacophore-modeling)
+  - [QSAR and Descriptor Tools](#qsar-and-descriptor-tools)
   - [Descriptor and Featurization Tools](#descriptor-and-featurization-tools)
-  - [Molecular Property Prediction](#molecular-property-prediction)  
-  - [Fragment-Based Drug Design](#fragment-based-drug-design)  
-- [Virtual Screening and Docking](#virtual-screening-and-docking)  
-- [Interaction Analysis and Visualization](#interaction-analysis-and-visualization)  
-- [Molecular Dynamics and Simulation](#molecular-dynamics-and-simulation)  
-  - [Engines](#engines)  
-  - [Topology and Force Field Tools](#topology-and-force-field-tools)  
-  - [Analysis Tools](#analysis-tools)  
-- [Synthesis and Retrosynthesis Planning](#synthesis-and-retrosynthesis-planning)  
-- [Specialized Modalities](#specialized-modalities)  
-  - [PROTACs and Ternary Complexes](#protacs-and-ternary-complexes)  
-  - [Peptide Design](#peptide-design)  
-- [Machine Learning and AI](#machine-learning-and-ai)  
-  - [Core Libraries](#core-libraries)  
-  - [Chemistry-focused ML Frameworks](#chemistry-focused-ml-frameworks)  
-  - [Pretrained Models](#pretrained-models)  
-  - [AutoML and Optimization](#automl-and-optimization)  
-  - [Molecule Standardization](#molecule-standardization)  
-- [Utility and Workflow Tools](#utility-and-workflow-tools)  
-- [Learning Resources](#learning-resources)  
-  - [Free Courses](#free-courses)  
-  - [Blogs](#blogs)  
+  - [Molecular Property Prediction](#molecular-property-prediction)
+  - [Fragment-Based Drug Design](#fragment-based-drug-design)
+- [Virtual Screening and Docking](#virtual-screening-and-docking)
+- [Interaction Analysis and Visualization](#interaction-analysis-and-visualization)
+- [Molecular Dynamics and Simulation](#molecular-dynamics-and-simulation)
+  - [Engines](#engines)
+  - [Topology and Force Field Tools](#topology-and-force-field-tools)
+  - [Analysis Tools](#analysis-tools)
+- [Synthesis and Retrosynthesis Planning](#synthesis-and-retrosynthesis-planning)
+- [Specialized Modalities](#specialized-modalities)
+  - [PROTACs and Ternary Complexes](#protacs-and-ternary-complexes)
+  - [Peptide Design](#peptide-design)
+- [Machine Learning and AI](#machine-learning-and-ai)
+  - [Chemistry-focused ML Frameworks](#chemistry-focused-ml-frameworks)
+  - [Pretrained Models](#pretrained-models)
+  - [Molecule Standardization](#molecule-standardization)
+- [Utility and Workflow Tools](#utility-and-workflow-tools)
+- [Learning Resources](#learning-resources)
+  - [Free Courses](#free-courses)
+  - [Blogs](#blogs)
   - [Instructional Notebooks](#instructional-notebooks)
 - [Labs and Research Groups](#labs-and-research-groups)
-
----
 
 ## Databases and Chemical Libraries
 
 ### General Compound Libraries
 - [DrugBank](https://go.drugbank.com/) - Comprehensive data on approved and investigational drugs.
-- [ZINC](https://zinc.docking.org/) - Free compounds for screening.  
-- [ChemSpider](http://www.chemspider.com/) - Chemical structures and data.  
-- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces.  
-- [Mcule](https://mcule.com/) - Virtual screening platform with purchasable compounds.  
-- [Otava Chemicals](https://www.otavachemicals.com/) - Screening compounds and building blocks.  
+- [ZINC](https://zinc.docking.org/) - Free compounds for screening.
+- [ChemSpider](http://www.chemspider.com/) - Chemical structures and data.
+- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces.
+- [Mcule](https://mcule.com/) - Virtual screening platform with purchasable compounds.
+- [Otava Chemicals](https://www.otavachemicals.com/) - Screening compounds and building blocks.
 - [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.
 - [Eximed](https://eximedlab.com/Screening-Compounds.html) - 60k+ compounds for virtual screening.
 - [OTAVA NP-like Library](https://otavachemicals.com/sdf) - Screening compounds for prompt delivery.
@@ -62,34 +56,32 @@ A meticulously curated resource list focused on computational methods for drug d
 - [VAST Chemical Space](https://www.aifchem.com/vast) - 4.6 billion synthetically accessible compounds for virtual screening and hit expansion.
 
 ### Natural Product Libraries
-- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
-- [COCONUT](https://coconut.naturalproducts.net/) - 400k+ natural products.  
-- [LOTUS](https://lotus.naturalproducts.net/) - Annotated molecular data with sourcing organisms.  
-- [NPASS](http://bidd.group/NPASS/index.php) - 94k activity-species links.  
-- [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 27k+ African medicinal plant compounds.  
-- [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa.  
-- [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.  
-- [The Natural Products Atlas](https://www.npatlas.org/) - An open-access database for microbial natural products structures and metadata.  
-- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - A manually curated database on coumarins from plants.  
-- [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - Artemisia genus compounds.  
-- [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.  
-- [IMPPAT](https://cb.imsc.res.in/imppat/home) - Phytochemicals from Indian medicinal plants.  
-- [NP-MRD](https://np-mrd.org/natural_products) - 280k+ NMR-based NP studies.  
-- [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - 60k+ compounds.  
-- [PhytoHub](https://phytohub.eu/) - Dietary phytochemicals and metabolites.  
-- [Dr. Duke's Phytochemical DB](https://phytochem.nal.usda.gov/) - Plant compounds and uses.  
-- [CyanoMetDB](https://zenodo.org/records/13854577) - Over 3,000 cyanobacterial metabolites.  
-- [Seaweed Metabolite DB](https://www.swmd.co.in/) - Marine algae compounds.  
-- [FooDB](https://foodb.ca/) - A comprehensive resource on food constituents.  
+- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.
+- [COCONUT](https://coconut.naturalproducts.net/) - 400k+ natural products.
+- [LOTUS](https://lotus.naturalproducts.net/) - Annotated molecular data with sourcing organisms.
+- [NPASS](http://bidd.group/NPASS/index.php) - 94k activity-species links.
+- [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 27k+ African medicinal plant compounds.
+- [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa.
+- [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.
+- [The Natural Products Atlas](https://www.npatlas.org/) - An open-access database for microbial natural products structures and metadata.
+- [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.
+- [IMPPAT](https://cb.imsc.res.in/imppat/home) - Phytochemicals from Indian medicinal plants.
+- [NP-MRD](https://np-mrd.org/natural_products) - 280k+ NMR-based NP studies.
+- [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - 60k+ compounds.
+- [PhytoHub](https://phytohub.eu/) - Dietary phytochemicals and metabolites.
+- [Dr. Duke's Phytochemical DB](https://phytochem.nal.usda.gov/) - Plant compounds and uses.
+- [CyanoMetDB](https://zenodo.org/records/13854577) - Over 3,000 cyanobacterial metabolites.
+- [Seaweed Metabolite DB](https://www.swmd.co.in/) - Marine algae compounds.
+- [FooDB](https://foodb.ca/) - A comprehensive resource on food constituents.
 
 ### Bioactivity Databases
-- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Bioactivity and ADMET data.  
-- [SureChEMBL](https://www.surechembl.org/) - Patent chemistry search.  
-- [BindingDB](https://www.bindingdb.org/) - Binding affinities for biomolecules.  
-- [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - Structures, properties, and bioassays.  
-- [PDBbind](http://www.pdbbind.org.cn/index.php) - Protein-ligand affinity data.  
-- [BRENDA](https://www.brenda-enzymes.org/) - Enzyme properties and functions.  
-- [ExCAPE-DB](https://solr.ideaconsult.net/search/excape/) - A large-scale chemogenomics database.  
+- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Bioactivity and ADMET data.
+- [SureChEMBL](https://www.surechembl.org/) - Patent chemistry search.
+- [BindingDB](https://www.bindingdb.org/) - Binding affinities for biomolecules.
+- [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - Structures, properties, and bioassays.
+- [PDBbind](http://www.pdbbind.org.cn/index.php) - Protein-ligand affinity data.
+- [BRENDA](https://www.brenda-enzymes.org/) - Enzyme properties and functions.
+- [ExCAPE-DB](https://solr.ideaconsult.net/search/excape/) - A large-scale chemogenomics database.
 - [Therapeutics Data Commons](https://tdcommons.ai/) - AI/ML-ready datasets and learning tasks for therapeutics.
 - [Therapeutic Target Database (TTD)](https://idrblab.net/ttd/) - Drug targets with linked diseases and compounds.
 - [Aircheck Datasets](https://aircheck.ai/datasets) - Curated DEL datasets for AI‑driven drug discovery, enabling benchmarking and model development.
@@ -98,8 +90,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) - Comprehensive registry and results database for clinical studies involving human participants.
 - [CovalentInDB (CIDB)](https://cadd.zju.edu.cn/cidb/) - A comprehensive database dedicated to covalent inhibitors, targets, and experimental data.
 - [HSADab](https://github.com/proszxppp/HSADab) - Database of binding thermodynamics, structures, and docking data for human serum albumin.
-
----
 
 ## Target and Protein Data
 
@@ -132,8 +122,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) - Open-source method for de novo protein design using structure-guided diffusion models.
 - [Melodia](https://github.com/rwmontalvao/Melodia_py) - Python library for analyzing and comparing protein structure shapes via differential geometry.
 
----
-
 ## Network Pharmacology
 - [GeneCards](https://www.genecards.org/) - Human gene database with genomic, proteomic, and clinical data.
 - [SwissTargetPrediction](http://www.swisstargetprediction.ch/) - Predicts targets of small molecules via similarity-based screening.
@@ -152,8 +140,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Polypharmacology Browser PPB3](https://ppb3.gdb.tools/) - Deep learning tool predicting off-target effects and polypharmacology for bioactive molecules.
 - [Drug-Target Interaction Explorer](https://github.com/yashhhhhhhhh504/Drug-Target-Interaction-Explorer) - Dashboard for exploring and visualizing drug-target interaction networks.
 
----
-
 ## Ligand Design and Optimization
 
 ### Pharmacophore Modeling
@@ -171,11 +157,11 @@ A meticulously curated resource list focused on computational methods for drug d
 - [pyADA](https://github.com/jeffrichardchemistry/pyADA) - Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.
 
 ### Descriptor and Featurization Tools
-- [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.  
-- [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) - Java tool for calculating molecular descriptors and fingerprints.  
-- [Mordred](https://github.com/mordred-descriptor/mordred) - Python library with 1800+ molecular descriptors.  
-- [CDK](https://cdk.github.io/) - Java cheminformatics library with descriptor calculators.  
-- [alvaDesc](https://www.alvascience.com/alvadesc/) - Commercial software for molecular descriptors and fingerprints.  
+- [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.
+- [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) - Java tool for calculating molecular descriptors and fingerprints.
+- [Mordred](https://github.com/mordred-descriptor/mordred) - Python library with 1800+ molecular descriptors.
+- [CDK](https://cdk.github.io/) - Java cheminformatics library with descriptor calculators.
+- [alvaDesc](https://www.alvascience.com/alvadesc/) - Commercial software for molecular descriptors and fingerprints.
 - [MolFeat](https://molfeat.datamol.io/) - Python package for molecular featurization and embeddings.
 - [Dragon](https://www.talete.mi.it/products/dragon_description.htm) - Commercial molecular descriptor calculator (widely cited).
 - [ChemDescriptor](https://github.com/darkreactions/chemdescriptor) - Open-source tool for generating chemical descriptors and fingerprints, supporting cheminformatics workflows.
@@ -197,12 +183,10 @@ A meticulously curated resource list focused on computational methods for drug d
 
 - [SwissSidechain](https://www.swisssidechain.ch/) - Fragment and linker library for small molecule design.
 - [BoBER](http://bober.insilab.org/) - Bioisosteric replacements for lead optimization.
-- [FragBuilder](https://github.com/andersx/fragbuilder) - Python API for building peptide-like and small molecule fragments.  
+- [FragBuilder](https://github.com/andersx/fragbuilder) - Python API for building peptide-like and small molecule fragments.
 - [SeeSAR](https://www.biosolveit.de/SeeSAR/) - Fragment growing and linking software (free academic version).
 - [Enamine Fragment Libraries](https://enamine.net/compound-libraries/fragment-libraries) - Large curated collection of diverse fragments for FBDD.
 - [FragmentFinder](https://github.com/1JELC1/FragmentFinder) - Computational tool for identifying and matching structural fragments in drug discovery workflows.
-
----
 
 ## Virtual Screening and Docking
 - [OpenBabel](https://openbabel.org/index.html) - Format conversion and ligand prep.
@@ -212,8 +196,8 @@ A meticulously curated resource list focused on computational methods for drug d
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
 - [AutoDock Vina](https://vina.scripps.edu/) - Popular docking software.
 - [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
-- [DiffDock](https://github.com/gcorso/DiffDock) - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.  
-- [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.  
+- [DiffDock](https://github.com/gcorso/DiffDock) - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.
+- [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.
 - [Webina](https://durrantlab.pitt.edu/webina/) - Web-based Vina.
 - [Smina](https://github.com/mwojcikowski/smina) - Vina fork with extra features.
 - [Gnina](https://github.com/gnina/gnina) - CNN-scoring docking.
@@ -231,8 +215,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Chopdock](https://github.com/JanoschMenke/chopdock) - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
 - [Boltzmann Maps](https://boltzmannmaps.com/) - Web application for structure-guided drug design using pre-computed water and chemical fragment maps.
 
----
-
 ## Interaction Analysis and Visualization
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
 - [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation with symmetry-corrected RMSD and lightweight distance and clash filters.
@@ -244,8 +226,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Avogadro](https://avogadro.cc/) - Cross-platform molecular editor and visualizer featuring an extensible plugin system.
 - [xyzrender](https://github.com/aligfellow/xyzrender) - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
 - [pymol-sifts](https://github.com/connyyu/pymol_sifts/) - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
-
----
 
 ## Molecular Dynamics and Simulation
 
@@ -277,8 +257,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [cmd-viewer](https://github.com/Kopec-Lab/cmd-viewer) - Tool for visualizing and analyzing MD simulation trajectories and structural data.
 - [Pharmacon](https://github.com/k-georgiou/pharmacon) - Open-source toolkit for molecular dynamics simulation analysis in medicinal chemistry.
 
----
-
 ## Synthesis and Retrosynthesis Planning
 - [Spaya](https://spaya.ai/app/search) - AI-driven retrosynthesis engine with route ranking and synthetic feasibility scoring.
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Monte Carlo tree search-based retrosynthesis using trained neural networks.
@@ -286,8 +264,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
 - [MANIFOLD](https://postera.ai/) - Search engine for synthetically accessible molecules and building blocks.
 - [onepot.ai](https://www.onepot.ai/) - AI-enabled molecular editor and synthesis planning platform with an encrypted structure environment.
-
----
 
 ## Specialized Modalities
 
@@ -300,23 +276,11 @@ A meticulously curated resource list focused on computational methods for drug d
 - [PEP-SiteFinder](https://bioserv.rpbs.univ-paris-diderot.fr/services/PEP-SiteFinder/) - Predicts peptide-binding sites on protein structures using drug-like ligand mapping.
 - [PEP-FOLD3](https://bioserv.rpbs.univ-paris-diderot.fr/services/PEP-FOLD3/) - De novo peptide structure prediction framework.
 
----
-
 ## Machine Learning and AI
-
-### Core Libraries
-- [scikit-learn](https://scikit-learn.org/) - General-purpose ML library for classification, regression, clustering, and model evaluation.
-- [PyTorch](https://pytorch.org/) - Deep learning framework with extensive support for neural network modeling.
-- [TensorFlow](https://www.tensorflow.org/) - End-to-end ML platform for scalable model development and deployment.
-- [Keras](https://keras.io/) - High-level neural network API running on top of TensorFlow, designed for fast experimentation.
-- [NumPy](https://numpy.org/) - Core library for numerical computing with support for arrays, matrices, and linear algebra.
-- [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis toolkit built on top of NumPy.
-- [Matplotlib](https://matplotlib.org/) - Comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization library built on top of Matplotlib.
 
 ### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
-- [scikit-mol](https://github.com/EBjerrum/scikit-mol) - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.  
+- [scikit-mol](https://github.com/EBjerrum/scikit-mol) - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.
 - [Chemprop](https://github.com/chemprop/chemprop) - Directed message passing neural networks for molecular property prediction.
 - [ChemML](https://github.com/hachmannlab/chemml) - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
 - [Oloren ChemEngine](https://pypi.org/project/olorenchemengine/) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
@@ -335,16 +299,9 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Boltz-2](https://github.com/jwohlwend/boltz) - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
 - [Zatom](https://github.com/Zatom-AI/zatom) - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
 
-### AutoML and Optimization
-- [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) - Automated machine learning for scikit-learn.
-- [TPOT](https://epistasislab.github.io/tpot/) - Genetic programming-based AutoML for optimizing ML pipelines.
-- [Optuna](https://optuna.org/) - Hyperparameter optimization framework for machine learning.
-
 ### Molecule Standardization
 - [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization library based on RDKit.
 - [cleanmol](https://github.com/nurtilekgalimov/cleanmol) - Python library for cleaning, standardizing, and preparing molecular structures for cheminformatics workflows.
-
----
 
 ## Utility and Workflow Tools
 - [ProteinsPlus](https://proteins.plus/) - A web-based platform designed to assist life scientists in analyzing and working with protein structures.
@@ -377,8 +334,6 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Neurosnap](https://neurosnap.ai/) - Web platform providing no-code interfaces to bioinformatics and ML tools including AlphaFold.
 - [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 - [rdkit-agent](https://github.com/scottmreed/rdkit-agent) - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
-
----
 
 ## Learning Resources
 
@@ -433,19 +388,17 @@ A meticulously curated resource list focused on computational methods for drug d
 
 - [Carlsson Lab](https://www.carlssonlab.org/) - GPCR modeling, receptor-ligand interactions, MD, docking, and AI for drug discovery. (Uppsala University, Sweden)
 - [InSiliChem](https://insilichem.com/) - Computational chemobiology and metalloenzyme design. (Universitat Autònoma de Barcelona, Spain)
-- [LCBC](https://sites.google.com/view/lcbc) - Molecular dynamics, free energy calculations, retrosynthesis using machine learning. (Seoul National University, Korea) 
+- [LCBC](https://sites.google.com/view/lcbc) - Molecular dynamics, free energy calculations, retrosynthesis using machine learning. (Seoul National University, Korea)
 - [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - High-performance computing for computational chemistry and cheminformatics. (University of Connecticut, USA)
 - [Laboratory of Chemoinformatics](https://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/team/) - QSAR/QSPR, chemical similarity, and virtual screening. (Université de Strasbourg / CNRS, France)
 - [Erastova Lab](https://www.erastova.xyz/) - Molecular modeling of soft matter and biomolecular simulations. (University of Edinburgh, UK)
 - [The Ballester Group](https://ballestergroup.github.io/) - Developing ML/AI methods for structure-based scoring and virtual screening. (Imperial College London, UK)
 - [Meiler Lab](https://meilerlab.org/) - Rosetta software, protein design, and ML-based protein engineering. (Vanderbilt / Leipzig University, USA / Germany)
-- [COMP3D](https://comp3d.univie.ac.at/) - Develops and applies AI methods to design safe, effective pharmaceuticals and agrochemicals. (University of Vienna, Austria) 
+- [COMP3D](https://comp3d.univie.ac.at/) - Develops and applies AI methods to design safe, effective pharmaceuticals and agrochemicals. (University of Vienna, Austria)
 - [Dral Group](http://dr-dral.com/) - AI-enhanced computational chemistry, quantum chemical methods, and development of MLatom. (Xiamen University, China)
 - [Bonvin Lab](https://www.bonvinlab.org/) - Computational structural biology, HADDOCK, and integrative modeling. (Utrecht University, Netherlands)
 - [Volkamer Lab](https://volkamerlab.org/) - Binding site analysis and AI-powered virtual screening. (Saarland University, Germany)
-- [AI Laboratory for Molecular Engineering](https://ailab.bio/) - PROTACs, molecular glues, and ML for chemistry and life sciences. (Chalmers University, Sweden)  
+- [AI Laboratory for Molecular Engineering](https://ailab.bio/) - PROTACs, molecular glues, and ML for chemistry and life sciences. (Chalmers University, Sweden)
 - [Loschmidt Labs - PEG](https://loschmidt.chemi.muni.cz/peg/) - Protein and enzyme engineering, AI-assisted enzyme design. (Masaryk University, Czechia)
 - [QSAR4U](https://qsar4u.com/index.php) - Cheminformatics tools, QSAR modeling, CReM, and EasyDock. (Palacky University, Czechia)
 - [LBMD](https://www.chem.kuleuven.be/lbmd/index.html) - Computational strategies to understand and engineer biomolecular systems. (KU Leuven, Belgium)
-
----
