@@ -297,7 +297,7 @@ Computational methods for identifying and developing new drug candidates.
 - [ESMc](https://biohub.ai/models/esmc) - A family of open protein language foundation models for sequence generation and design.
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) - 3D molecular representation learning framework.
 - [Boltz-2](https://github.com/jwohlwend/boltz) - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
-- [Zatom](https://github.com/Zatom-AI/zatom) - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
+- [MMELON](https://github.com/BiomedSciAI/biomed-multi-view) - Multi-view Molecular Embedding with Late Fusion combining graph, image, and text representations.
 
 ### Molecule Standardization
 - [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization library based on RDKit.
