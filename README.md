@@ -387,6 +387,7 @@ Computational methods for identifying and developing new drug candidates.
 ## Labs and Research Groups
 
 - [Carlsson Lab](https://www.carlssonlab.org/) - GPCR modeling, receptor-ligand interactions, MD, docking, and AI for drug discovery. (Uppsala University, Sweden)
+- [MODLAB - The Molecular Design Laboratory (ETH Zurich)](https://cadd.ethz.ch/) - Leading academic group developing AI‑driven methods for de novo drug design, reaction prediction, polypharmacology modeling, and closed‑loop molecular discovery.
 - [InSiliChem](https://insilichem.com/) - Computational chemobiology and metalloenzyme design. (Universitat Autònoma de Barcelona, Spain)
 - [LCBC](https://sites.google.com/view/lcbc) - Molecular dynamics, free energy calculations, retrosynthesis using machine learning. (Seoul National University, Korea)
 - [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - High-performance computing for computational chemistry and cheminformatics. (University of Connecticut, USA)
