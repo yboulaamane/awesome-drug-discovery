@@ -354,9 +354,9 @@ Computational methods for identifying and developing new drug candidates.
 - [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
 - [CCAS Training Materials](https://ccas.nd.edu/research/training-materials/) - Training resources for computer-assisted synthesis tools, reaction modeling, and machine learning.
 - [ML in Chemistry (CHEM 542)](https://sites.rutgers.edu/sun-lab/teach-chem542/) - Rutgers University course materials covering machine learning applications in chemical sciences.
-- [MLCHEM Tutorial Gallery](https://xuhuihuang.github.io/mlchem/html/examples.html) - Jupyter notebooks covering molecular features, machine learning, property prediction, generative models, and protein language models.
-- [Quimioinformática Aplicada al Diseño de Fármacos](https://difacquim.gitbook.io/quimioinformatica) - Spanish chemoinformatics handbook covering molecular databases, chemical-space analysis, docking, and Python exercises.
-- [AiChemist Lectures and Seminars](https://aichemist.eu/lectures) - Lectures and materials on AI, molecular modeling, synthesis planning, toxicology, and drug discovery.
+- [MLCHEM Tutorial Gallery](https://xuhuihuang.github.io/mlchem/html/examples.html) - Jupyter tutorials on machine learning for chemistry.
+- [Quimioinformática Aplicada al Diseño de Fármacos](https://difacquim.gitbook.io/quimioinformatica) - Spanish handbook on chemoinformatics and drug design.
+- [AiChemist Lectures and Seminars](https://aichemist.eu/lectures) - Lectures on AI applications in chemistry and drug discovery.
 
 ### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
