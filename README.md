@@ -214,6 +214,7 @@ Computational methods for identifying and developing new drug candidates.
 - [MetalDock](https://metaldock.readthedocs.io/en/latest/) - A Python-based tool designed for the docking of metal-organic compounds to proteins, DNA, or other biomolecules.
 - [Chopdock](https://github.com/JanoschMenke/chopdock) - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
 - [Boltzmann Maps](https://boltzmannmaps.com/) - Web application for structure-guided drug design using pre-computed water and chemical fragment maps.
+- [KRAS PDAC screening pipeline](https://github.com/eobi/pancreatic_cancer_research) - Gated virtual screening workflow for KRAS in pancreatic cancer, where each stage must reproduce known answers for approved drugs before its output is used; includes four validated targets, MM-GBSA rescoring, and published negative results.
 
 ## Interaction Analysis and Visualization
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
