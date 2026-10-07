@@ -179,6 +179,7 @@ Computational methods for identifying and developing new drug candidates.
 - [Admetboost](https://ai-druglab.smu.edu/admet) - ML-based ADMET prediction.
 - [MetaPredict](http://metapredict.icoa.fr/) - Predict molecular properties from structure.
 - [ADMET-AI](https://admet.ai.greenstonebio.com/) - A web-based tool for predicting ADMET properties based on Chemprop-RDKit models trained on datasets from the TDC.
+- [Chempirical Drug-likeness](https://chempirical.com/drug-likeness-calculator/) - Lipinski, Veber, Ghose, Egan, lead-likeness and QED with logP, TPSA and a bioavailability radar.
 
 ### Fragment-Based Drug Design
 
