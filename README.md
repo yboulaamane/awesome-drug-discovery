@@ -335,6 +335,7 @@ Computational methods for identifying and developing new drug candidates.
 - [Neurosnap](https://neurosnap.ai/) - Web platform providing no-code interfaces to bioinformatics and ML tools including AlphaFold.
 - [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 - [rdkit-agent](https://github.com/scottmreed/rdkit-agent) - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
+- [Toolome](https://toolome.bio/category/drug-discovery/) - Directory of AI tools for drug discovery and biology, listing license, paper and release date for each tool.
 
 ## Learning Resources
 
