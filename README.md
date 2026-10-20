@@ -49,7 +49,7 @@ Computational methods for identifying and developing new drug candidates.
 - [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces.
 - [Mcule](https://mcule.com/) - Virtual screening platform with purchasable compounds.
 - [Otava Chemicals](https://www.otavachemicals.com/) - Screening compounds and building blocks.
-- [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.
+- [Vitas-M Laboratory](https://vitasmlab.net/) - Chemical libraries for HTS and lead discovery.
 - [Eximed](https://eximedlab.com/Screening-Compounds.html) - 60k+ compounds for virtual screening.
 - [OTAVA NP-like Library](https://otavachemicals.com/sdf) - Screening compounds for prompt delivery.
 - [Ambinter](https://www.ambinter.com/) - 40M+ compounds for HTS, building blocks, and a wide selection of fragments and natural products.
