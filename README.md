@@ -179,6 +179,7 @@ Computational methods for identifying and developing new drug candidates.
 - [Admetboost](https://ai-druglab.smu.edu/admet) - ML-based ADMET prediction.
 - [MetaPredict](http://metapredict.icoa.fr/) - Predict molecular properties from structure.
 - [ADMET-AI](https://admet.ai.greenstonebio.com/) - A web-based tool for predicting ADMET properties based on Chemprop-RDKit models trained on datasets from the TDC.
+- [ParetoMol](https://paretomol.com/) - Free browser-based multi-objective Pareto analysis of drug-like molecules with RDKit.js properties and optional ADMET-AI predictions.
 
 ### Fragment-Based Drug Design
 
