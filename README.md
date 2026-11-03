@@ -139,6 +139,7 @@ Computational methods for identifying and developing new drug candidates.
 - [PharmGKB](https://pgx-db.org/target_lookup/) - Pharmacogenomics resource exploring genetic variation impacts on drug response and molecular targets.
 - [Polypharmacology Browser PPB3](https://ppb3.gdb.tools/) - Deep learning tool predicting off-target effects and polypharmacology for bioactive molecules.
 - [Drug-Target Interaction Explorer](https://github.com/yashhhhhhhhh504/Drug-Target-Interaction-Explorer) - Dashboard for exploring and visualizing drug-target interaction networks.
+- [OREVID](https://orevid.org/) - Ranks existing drugs for each disease on a biomedical knowledge graph and shows the evidence behind every candidate, with an open repurposing benchmark ([OREVID-bench](https://huggingface.co/datasets/orevid/orevid-bench)).
 
 ## Ligand Design and Optimization
 
