@@ -211,6 +211,7 @@ Computational methods for identifying and developing new drug candidates.
 - [ClusPro](https://cluspro.org/) - Protein-protein docking server.
 - [pyDockWEB](https://life.bsc.es/pid/pydockweb/) - Electrostatics-based docking.
 - [SwissDock](https://www.swissdock.ch/) - Web docking for beginners.
+- [Liganx](https://liganx.com/) - Free, browser-based, mutation-aware docking; docks into wild-type and mutant structures and compares the score difference.
 - [MzDOCK](https://github.com/Muzatheking12/MzDOCK) - GUI docking pipeline.
 - [Uni-Mol Docking V2](https://www.bohrium.com/apps/unimoldockingv2/job?type=app) - AI-assisted docking.
 - [Vina on Colab](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) - Run Vina in Google Colab.
