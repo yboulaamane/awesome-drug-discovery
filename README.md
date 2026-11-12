@@ -45,8 +45,8 @@ Computational methods for identifying and developing new drug candidates.
 ### General Compound Libraries
 - [DrugBank](https://go.drugbank.com/) - Comprehensive data on approved and investigational drugs.
 - [ZINC](https://zinc.docking.org/) - Free compounds for screening.
-- [ChemSpider](http://www.chemspider.com/) - Chemical structures and data.
-- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces.
+- [ChemSpider](https://www.chemspider.com/) - Chemical structures and data.
+- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces. (Unreachable when checked in Nov 2026.)
 - [Mcule](https://mcule.com/) - Virtual screening platform with purchasable compounds.
 - [Otava Chemicals](https://www.otavachemicals.com/) - Screening compounds and building blocks.
 - [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.
@@ -59,16 +59,16 @@ Computational methods for identifying and developing new drug candidates.
 - [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.
 - [COCONUT](https://coconut.naturalproducts.net/) - 400k+ natural products.
 - [LOTUS](https://lotus.naturalproducts.net/) - Annotated molecular data with sourcing organisms.
-- [NPASS](http://bidd.group/NPASS/index.php) - 94k activity-species links.
+- [NPASS](https://bidd.group/NPASS/index.php) - 94k activity-species links.
 - [ANPDB](https://phabidb.vm.uni-freiburg.de/anpdb/) - 27k+ African medicinal plant compounds.
-- [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa.
+- [SANCDB](https://sancdb.rubi.ru.ac.za/) - Natural compounds from the plant and marine life in and around South Africa. (Unreachable when checked in Nov 2026.)
 - [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.
 - [The Natural Products Atlas](https://www.npatlas.org/) - An open-access database for microbial natural products structures and metadata.
 - [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.
 - [IMPPAT](https://cb.imsc.res.in/imppat/home) - Phytochemicals from Indian medicinal plants.
 - [NP-MRD](https://np-mrd.org/natural_products) - 280k+ NMR-based NP studies.
 - [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - 60k+ compounds.
-- [PhytoHub](https://phytohub.eu/) - Dietary phytochemicals and metabolites.
+- [PhytoHub](https://phytohub.eu/) - Dietary phytochemicals and metabolites. (Unreachable when checked in Nov 2026.)
 - [Dr. Duke's Phytochemical DB](https://phytochem.nal.usda.gov/) - Plant compounds and uses.
 - [CyanoMetDB](https://zenodo.org/records/13854577) - Over 3,000 cyanobacterial metabolites.
 - [Seaweed Metabolite DB](https://www.swmd.co.in/) - Marine algae compounds.
@@ -124,8 +124,8 @@ Computational methods for identifying and developing new drug candidates.
 
 ## Network Pharmacology
 - [GeneCards](https://www.genecards.org/) - Human gene database with genomic, proteomic, and clinical data.
-- [SwissTargetPrediction](http://www.swisstargetprediction.ch/) - Predicts targets of small molecules via similarity-based screening.
-- [STITCH](https://stitch.embl.de/) - Integrates chemical–protein interactions across organisms.
+- [SwissTargetPrediction](https://www.swisstargetprediction.ch/) - Predicts targets of small molecules via similarity-based screening.
+- [STITCH](https://stitch.embl.de/) - Integrates chemical–protein interactions across organisms. (Unreachable when checked in Nov 2026.)
 - [STRING](https://string-db.org/) - A database of known and predicted protein–protein interactions.
 - [Cytoscape](https://cytoscape.org/) - Visualizes and analyzes molecular interaction networks.
 - [Open Targets](https://platform.opentargets.org/) - Integrative platform for therapeutic target identification.
@@ -134,7 +134,7 @@ Computational methods for identifying and developing new drug candidates.
 - [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - Identifies potential targets via reverse pharmacophore mapping.
 - [ChEA3](https://maayanlab.cloud/chea3/) - Transcription factor enrichment tool integrating ChIP-seq, co-expression, and perturbation datasets.
 - [miRDB](https://mirdb.org/) - Predicts functional microRNA targets using machine learning and high-throughput data.
-- [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - A web tool for comparing lists using Venn diagrams.
+- [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - A web tool for comparing lists using Venn diagrams. (Unreachable when checked in Nov 2026.)
 - [OMIM](https://www.omim.org/) - Authoritative compendium of human genes and their relationship to genetic variation and phenotypic expression.
 - [PharmGKB](https://pgx-db.org/target_lookup/) - Pharmacogenomics resource exploring genetic variation impacts on drug response and molecular targets.
 - [Polypharmacology Browser PPB3](https://ppb3.gdb.tools/) - Deep learning tool predicting off-target effects and polypharmacology for bioactive molecules.
@@ -148,7 +148,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### QSAR and Descriptor Tools
 - [QSAR Toolbox](https://qsartoolbox.org/) - Hazard assessment and QSAR.
-- [OCHEM](https://ochem.eu/home/show.do) - QSAR model building and prediction.
+- [OCHEM](https://ochem.eu/home/show.do) - QSAR model building and prediction. (Unreachable when checked in Nov 2026.)
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - QSAR and cheminformatics suite.
 - [3D-QSAR](https://www.3d-qsar.com/) - Web resources for 3D QSAR modeling.
 - [QSAR-Co](https://sites.google.com/view/qsar-co/) - Robust multitarget QSAR modeling.
@@ -169,10 +169,10 @@ Computational methods for identifying and developing new drug candidates.
 - [ChemDescriptor](https://github.com/darkreactions/chemdescriptor) - Open-source tool for generating chemical descriptors and fingerprints, supporting cheminformatics workflows.
 
 ### Molecular Property Prediction
-- [SwissADME](http://www.swissadme.ch/) - Drug-likeness and PK.
+- [SwissADME](https://www.swissadme.ch/) - Drug-likeness and PK.
 - [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/) - ADMET property prediction.
 - [DeepPK](https://biosig.lab.uq.edu.au/deeppk/) - DL-based pharmacokinetics.
-- [admetSAR 2.0](https://lmmd.ecust.edu.cn/admetsar2/) - Comprehensive ADMET.
+- [admetSAR 3.0](https://lmmd.ecust.edu.cn/admetsar3/) - Comprehensive ADMET.
 - [ADMETlab 2.0](https://admetmesh.scbdd.com/) - PK, toxicity and drug-likeness.
 - [ProTox-II](https://tox-new.charite.de/protox_II/) - Toxicity predictions.
 - [PreADMET](https://preadmet.webservice.bmdrc.org/) - PK property predictions.
@@ -208,7 +208,7 @@ Computational methods for identifying and developing new drug candidates.
 - [HADDOCK](https://wenmr.science.uu.nl/haddock2.4/) - Flexible docking suite.
 - [PandaDock](https://github.com/pritampanda15/PandaDock) - Python docking tool.
 - [ZDOCK](https://zdock.wenglab.org/) - Protein-protein docking.
-- [ClusPro](https://cluspro.org/) - Protein-protein docking server.
+- [ClusPro](https://cluspro.bu.edu/) - Protein-protein docking server.
 - [pyDockWEB](https://life.bsc.es/pid/pydockweb/) - Electrostatics-based docking.
 - [SwissDock](https://www.swissdock.ch/) - Web docking for beginners.
 - [Liganx](https://liganx.com/) - Free, browser-based, mutation-aware docking; docks into wild-type and mutant structures and compares the score difference.
@@ -265,14 +265,13 @@ Computational methods for identifying and developing new drug candidates.
 - [Spaya](https://spaya.ai/app/search) - AI-driven retrosynthesis engine with route ranking and synthetic feasibility scoring.
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Monte Carlo tree search-based retrosynthesis using trained neural networks.
 - [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
-- [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
 - [MANIFOLD](https://postera.ai/) - Search engine for synthetically accessible molecules and building blocks.
 - [onepot.ai](https://www.onepot.ai/) - AI-enabled molecular editor and synthesis planning platform with an encrypted structure environment.
 
 ## Specialized Modalities
 
 ### PROTACs and Ternary Complexes
-- [PROTAC-db](http://cadd.zju.edu.cn/protacdb/) - Curated database of PROTAC molecules, targets, and linkers for degrader design.
+- [PROTAC-db](https://cadd.zju.edu.cn/protacdb/) - Curated database of PROTAC molecules, targets, and linkers for degrader design.
 - [PROsettaC](https://prosettac.weizmann.ac.il/) - Structure-based modeling of ternary complexes for targeted protein degradation.
 
 ### Peptide Design
@@ -311,14 +310,14 @@ Computational methods for identifying and developing new drug candidates.
 - [ProteinsPlus](https://proteins.plus/) - A web-based platform designed to assist life scientists in analyzing and working with protein structures.
 - [OPSIN](https://opsin.ch.cam.ac.uk) - Convert IUPAC names to chemical structures.
 - [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Extract chemical structures from images.
-- [ChemPlot](https://chemplot.streamlit.app/) - Chemical space visualization.
+- [ChemPlot](https://chemplot.streamlit.app/) - Chemical space visualization. (Unreachable when checked in Nov 2026.)
 - [ChemDB](https://chemdb.igb.uci.edu/) - Chemoinformatics portal with compound data and tools.
 - [Screening Explorer](http://stats.drugdesign.fr/) - Analyze screening datasets and hit distributions.
 - [spyrmsd](https://github.com/RMeli/spyrmsd) - Python tool for symmetry-corrected RMSD calculations using graph isomorphism.
 - [NERDD](https://nerdd.univie.ac.at/) - Curated drug discovery resources.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - De novo ligand design.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Web-based cheminformatics toolkit for compound analysis.
-- [MayaChemTools](http://www.mayachemtools.org/index.html) - Perl/Python scripts for cheminformatics.
+- [MayaChemTools](https://www.mayachemtools.org/index.html) - Perl/Python scripts for cheminformatics.
 - [Click2Drug](https://www.click2drug.org/) - CADD software and databases directory.
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - Galaxy instance for cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - CADD resources repository.
@@ -363,8 +362,8 @@ Computational methods for identifying and developing new drug candidates.
 - [AiChemist Lectures and Seminars](https://aichemist.eu/lectures) - Lectures on AI applications in chemistry and drug discovery.
 
 ### Blogs
-- [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
-- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Tools and tips for cheminformatics workflows.
+- [Practical Fragments](https://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
+- [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) - Tools and tips for cheminformatics workflows.
 - [Neovarsity](https://neovarsity.org/blogs?categories=CHEMINFORMATICS) - Deep-tech blog on cheminformatics and drug discovery applications.
 - [Cheminformania](https://www.cheminformania.com/) - Cheminformatics meets deep learning and molecular modeling.
 - [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) - Digestible data science tutorials and concepts.
@@ -379,7 +378,6 @@ Computational methods for identifying and developing new drug candidates.
 - [DeepMedChem](https://www.deepmedchem.com/) - AI-powered insights, tool reviews, and workflows for modern drug discovery.
 - [The Data Chemist's Handbook](https://data-chemist-handbook.github.io/) - A curated handbook with guidelines, code snippets, and tools for data-driven chemistry.
 - [Awesome Learning Digital Chemistry](https://github.com/mlederbauer/awesome-learning-digital-chemistry) - Curated compilation of resources for learning digital chemistry, including courses, tutorials, and books.
-- [CCAS Data sets, Tools, and Workflows](https://ccas.nd.edu/research/data-sets-tools-and-workflows/) - A repository of datasets and computational workflows for computer-assisted organic synthesis.
 
 ### Instructional Notebooks
 - [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
