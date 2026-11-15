@@ -360,6 +360,7 @@ Computational methods for identifying and developing new drug candidates.
 - [MLCHEM Tutorial Gallery](https://xuhuihuang.github.io/mlchem/html/examples.html) - Jupyter tutorials on machine learning for chemistry.
 - [Quimioinformática Aplicada al Diseño de Fármacos](https://difacquim.gitbook.io/quimioinformatica) - Spanish handbook on chemoinformatics and drug design.
 - [AiChemist Lectures and Seminars](https://aichemist.eu/lectures) - Lectures on AI applications in chemistry and drug discovery.
+- [Life Sciences AI Handbook](https://lifesciencesaihandbook.com/) - Free, open textbook (CC BY 4.0) on the peer-reviewed evidence for AI in biology and drug discovery.
 
 ### Blogs
 - [Practical Fragments](https://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
