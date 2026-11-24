@@ -199,6 +199,7 @@ Computational methods for identifying and developing new drug candidates.
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
 - [AutoDock Vina](https://vina.scripps.edu/) - Popular docking software.
 - [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
+- [PocketVina](https://bioinformatics.mdc-berlin.de/PocketVina/) - GPU-accelerated docking that finds pockets with P2Rank and docks ligands into several pockets.
 - [DiffDock](https://github.com/gcorso/DiffDock) - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.
 - [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - Vina automation.
 - [Webina](https://durrantlab.pitt.edu/webina/) - Web-based Vina.
